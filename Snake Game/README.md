@@ -1,4 +1,4 @@
-Demo :
+Demo : https://nishilpjpt.github.io/web-mini-project/SnakeGame/index.html
 
 
 Snake Game Preview
