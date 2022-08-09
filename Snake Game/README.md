@@ -1,7 +1,8 @@
 Demo : https://nishilpjpt.github.io/web-mini-project/Snake%20Game/index.html
 
 
-Snake Game Preview
+Snake Game Preview 
+Snake gmae using HTML,CSS,JavaScript.
 
 ![Screenshot (371)](https://user-images.githubusercontent.com/32420038/183486804-49408ef2-f44e-4ec3-b2da-4d19f7965f2d.png)
 
